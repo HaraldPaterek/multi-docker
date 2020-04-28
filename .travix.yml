@@ -23,3 +23,4 @@ after_success:
   - docker push haraldpaterek/multi-server
   - docker push haraldpaterek/multi-client
   - docker push haraldpaterek/multi-worker 
+  
